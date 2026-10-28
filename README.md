@@ -2,7 +2,6 @@
 
 Enter marks for 4 subjects and instantly get the total, percentage, and grade.
 
-![Demo](screenshots/demo.png)
 
 ## Features
 
